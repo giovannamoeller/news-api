@@ -2,53 +2,53 @@
   "articles": [
     {
       "id": 1,
-      "author": "Luiz Gustavo Ribeiro",
-      "title": "Confira alguns projetos de brasileiros vencedores do Swift Student Challenge 2024",
-      "description": "A Apple anunciou os vencedores do Swift Student Challenge 2024, e entre eles estão alguns brasileiros. O Swift Student Challenge é uma competição que premia estudantes que desenvolvem projetos utilizando a linguagem de programação Swift, da Apple.",
-      "url": "https://macmagazine.com.br/post/2024/04/27/confira-alguns-projetos-de-brasileiros-vencedores-do-swift-student-challenge-2024/",
-      "urlToImage": "https://www.apple.com/newsroom/images/2023/11/apples-swift-student-challenge-to-open-in-2024-with-new-category/article/Apple-Swift-Student-Challenge-logo_inline.jpg.large.jpg",
+      "author": "Clara Monteiro",
+      "title": "Descobertas recentes em energia renovável na Universidade Federal do Brasil",
+      "description": "Pesquisadores da Universidade Federal do Brasil anunciaram uma nova tecnologia que promete revolucionar o campo das energias renováveis, aumentando a eficiência dos painéis solares em 40%.",
+      "url": "https://example.com/post/2024/04/27/descobertas-energia-renovavel",
+      "urlToImage": "https://images.unsplash.com/photo-1558979847-53a443fab1c9?q=80&w=2641&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "publishedAt": "2024-04-27T12:00:00Z",
-      "content": "Há cerca de um mês, a Apple começou a notificar os vencedores da edição mais recente do Swift Student Challenge, o qual é realizado anualmente para eleger (e celebrar) os projetos mais promissores criados por estudantes.\nComo não poderia deixar de ser, o Brasil foi muito bem representado no desafio deste ano, com vários brasileiros escolhidos entre os 350 vencedores — incluindo na nova categoria Distinguished Winners, na qual foram selecionados 50 estudantes com projetos excepcionais.\nConheça alguns dos vencedores e seus respectivos projetos."
+      "content": "Um grupo de pesquisadores da Universidade Federal do Brasil fez uma grande descoberta que pode mudar a maneira como utilizamos energia solar. Eles desenvolveram uma nova camada fotovoltaica que, quando aplicada aos painéis solares tradicionais, aumenta sua eficiência em quase 40%. Os detalhes do estudo foram publicados na última edição do Journal of Renewable Energies e estão despertando grande interesse em todo o mundo."
     },
     {
       "id": 2,
-      "author": "Bruno Cardoso",
-      "title": "iPad Air ganha modelo de 13″, novas câmeras e chip M2!",
-      "description": "O iPad Air ganhou hoje um belo salto (upgrade) — ou melhor, dois saltos! Isso porque a sexta geração do modelo foi anunciada hoje, durante o evento especial “Basta imaginar” (“Let loose”), com não uma, mas duas versões!",
-      "url": "https://macmagazine.com.br/post/2024/05/07/ipad-air-ganha-modelo-de-13-novas-cameras-e-chip-m2/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/new-ipad-wallpapers.jpg?quality=82&strip=all&w=1600",
+      "author": "Marco Túlio Santos",
+      "title": "Lançamento do primeiro carro autônomo produzido no Brasil",
+      "description": "A Autotech, uma startup brasileira, revelou hoje seu primeiro modelo de carro totalmente autônomo, prometendo transformar o transporte urbano no país.",
+      "url": "https://example.com/post/2024/05/07/carro-autonomo-brasil",
+      "urlToImage": "https://images.unsplash.com/photo-1576289681078-d32a1bdcf9b5?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "publishedAt": "2024-05-07T11:19:00Z",
-      "content": "O iPad Air ganhou hoje um belo salto (upgrade) — ou melhor, dois saltos! Isso porque a sexta geração do modelo foi anunciada hoje, durante o evento especial “Basta imaginar” (“Let loose”), com não uma, mas duas versões!\nCom isso, o novo iPad Air está disponível em 11 e 13 polegadas, de modo que consumidores agora têm mais uma opção caso não queiram investir na linha Pro, composta por tamanhos iguais. Ambas as opções contam com displays equipados com as mesmas tecnologias, como o True Tone e a ampla gama de cores P3 — sim, nada de ProMotion (até 120Hz) desta vez.\nA câmera frontal ultra-angular de 12MP, por sua vez, agora está posicionada no modo paisagem (horizontal), além de continuar suportando o recurso Palco Central (Center Stage). Os modelos também suportam agora o recurso Cursor do Apple Pencil (Apple Pencil hover)."
+      "content": "Hoje, em um evento realizado em São Paulo, a startup brasileira Autotech revelou seu primeiro modelo de carro totalmente autônomo. Este veículo, chamado 'Futuro', promete revolucionar o transporte urbano, oferecendo uma solução segura, eficiente e ambientalmente amigável. A Autotech afirmou que o carro possui uma tecnologia de sensoriamento avançada e uma interface inteligente que garantem uma experiência de condução sem precedentes."
     },
     {
       "id": 3,
-      "author": "Luiz Gustavo Ribeiro",
-      "title": "Conceito do “Apple Watch X” inclui Touch ID, câmera FaceTime e mais!",
-      "description": "Já acompanhamos alguns rumores sobre o suposto “Apple Watch X” (ou “Series X”, quem sabe), a décima geração do smartwatch da empresa que poderá ser anunciada este ano.",
-      "url": "https://macmagazine.com.br/post/2024/05/11/conceito-do-apple-watch-x-inclui-touch-id-camera-facetime-e-mais/",
-      "urlToImage": "https://images.macrumors.com/t/4HUertkiVBWeC47UHWnFJQ_6mPg=/1920x/article-new/2023/08/Apple-Watch-X-Feature.jpg",
+      "author": "Lúcia Ferreira",
+      "title": "Novas pesquisas indicam avanços na cura do Alzheimer",
+      "description": "Cientistas do Instituto de Neurociências do Brasil anunciam um novo tratamento que pode retardar significativamente a progressão do Alzheimer.",
+      "url": "https://example.com/post/2024/05/11/cura-alzheimer",
+      "urlToImage": "https://images.unsplash.com/photo-1557495876-aa846fcac3c4?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "publishedAt": "2024-05-11T12:00:00Z",
-      "content": "Já acompanhamos alguns rumores sobre o suposto “Apple Watch X” (ou “Series X”, quem sabe), a décima geração do smartwatch da empresa que poderá ser anunciada este ano.\nDesta vez, porém, temos um conceito que veio diretamente da agência de design alemã Wordsmattr, a qual ilustrou adições há muito especuladas para o relógio, como uma câmera FaceTime, medição da pressão arterial, Touch ID, entre outros."
+      "content": "Em um desenvolvimento emocionante na luta contra o Alzheimer, pesquisadores do Instituto de Neurociências do Brasil apresentaram um novo tratamento que mostra a capacidade de retardar a progressão da doença. Os resultados preliminares dos testes clínicos são promissores e representam um marco importante na busca por uma cura efetiva para o Alzheimer."
     },
     {
       "id": 4,
-      "author": "Yan Avelino",
-      "title": "Gratuito, GPT-4o é lançado pela OpenAI; ChatGPT ganha app para macOS",
-      "description": "A OpenAI lançou hoje o GPT-4o (“o” de “omni”), uma nova versão da sua inteligência artificial generativa — agora com capacidades de texto, visão e áudio.",
-      "url": "https://macmagazine.com.br/post/2024/05/13/gratuito-gpt-4o-e-lancado-pela-openai-chatgpt-ganha-app-para-macos/",
-      "urlToImage": "https://macmagazine.com.br/wp-content/uploads/2024/05/13-openai-gpt-4oHD-800x450.png",
+      "author": "Renata Gomes",
+      "title": "Tecnologia 5G chega a mais cidades brasileiras",
+      "description": "O avanço da tecnologia 5G continua a se expandir no Brasil, com novas cidades recebendo cobertura total até o final do ano.",
+      "url": "https://example.com/post/2024/05/13/expansao-5g-brasil",
+      "urlToImage": "https://images.unsplash.com/photo-1603513722284-1125b0b0a4bb?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "publishedAt": "2024-05-13T16:34:00Z",
-      "content": "A OpenAI lançou hoje o GPT-4o (“o” de “omni”), uma nova versão da sua inteligência artificial generativa — agora com capacidades de texto, visão e áudio. Segundo a empresa, o novo modelo é um grande avanço na IA e conta com melhorias em diversas áreas.\nDurante a apresentação, a CTO 1 da OpenAI, Mira Murati, destacou seu potencial, focando na capacidade de entender voz, texto e imagens. Segundo ela, isso é fundamental para moldar o futuro da interação humano-máquina.\nAinda de acordo com Murati, o GPT-4o é capaz de fornecer respostas 2x mais rápido e é 50% mais barato que a versão anterior, o GPT-4 Turbo. Este modelo, inclusive, analisava imagens e texto, mas não suportava áudio."
+      "content": "A tecnologia 5G está se expandindo rapidamente no Brasil, com várias novas cidades programadas para receber cobertura total até o final deste ano. Este avanço promete transformar diversas áreas, desde telecomunicações até desenvolvimento urbano, trazendo velocidades de internet significativamente mais rápidas e mais confiabilidade na conexão."
     },
     {
       "id": 5,
-      "author": "Yan Avelino",
-      "title": "WhatsApp ganha novo design, melhorias no modo escuro e mais",
-      "description": "O WhatsApp anunciou hoje uma grande reformulação do seu app para iOS e Android, indo além da nova paleta de cores anunciada há alguns dias, trazendo ícones renovados, ilustrações e melhorias nos planos de fundo das conversas.",
-      "url": "https://macmagazine.com.br/post/2024/05/09/whatsapp-ganha-novo-design-melhorias-no-modo-escuro-e-mais/",
-      "urlToImage": "https://images.macrumors.com/t/KnO-mPk5wKgR5cBkdqydu39ZyxA=/800x0/article-new/2024/05/whatsapp-new-design.jpg",
+      "author": "Paulo Andrade",
+      "title": "Crescimento do mercado de realidade virtual no Brasil",
+      "description": "O mercado de realidade virtual está crescendo exponencialmente no Brasil, com mais consumidores adotando a tecnologia para educação, entretenimento e trabalho remoto.",
+      "url": "https://example.com/post/2024/05/09/realidade-virtual-brasil",
+      "urlToImage": "https://images.unsplash.com/photo-1605647540924-852290f6b0d5?q=80&w=3237&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "publishedAt": "2024-05-09T17:47:00Z",
-      "content": "O WhatsApp anunciou hoje uma grande reformulação do seu app para iOS e Android, indo além da nova paleta de cores anunciada há alguns dias, trazendo ícones renovados, ilustrações e melhorias nos planos de fundo das conversas.\nSegundo a empresa, o aplicativo agora tem uma aparência mais moderna e amigável. Isso inclui uma paleta verde refinada, com maior uso de cores neutras para uma experiência visual mais seletiva e coesa.\nO modo escuro foi melhorado com maior contraste e tons mais profundos para reduzir a fadiga visual. Ademais, os ícones agora são mais arredondados e contornados, enquanto as ilustrações ganharam animações adicionais."
+      "content": "O interesse pela realidade virtual no Brasil tem visto um crescimento exponencial, com um número cada vez maior de consumidores adotando esta tecnologia. Seja para fins educacionais, entretenimento ou até mesmo trabalho remoto, a realidade virtual está provando ser uma ferramenta valiosa e versátil, segundo um relatório recente publicado pelo Instituto Brasileiro de Tecnologia Avançada."
     }
   ]
 }
